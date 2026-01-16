@@ -51,7 +51,9 @@ The design is purely **logic-based**, combining **sequential logic (counters)** 
 ## 🏗️ System Block Diagram
 
 Entry Switch ─┐
+
 ├──► Up/Down Counter ───► Logic Gates ───► Relay ───► Load
+
 Exit Switch ─┘
 
 Manual Override ───────────────────────────────▲
