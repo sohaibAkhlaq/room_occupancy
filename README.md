@@ -78,7 +78,9 @@ Manual Override ─────────────────────�
 ## 🔢 Boolean Logic
 
 Output = A + B + C + D
+
 If Output = 1 → Appliances ON
+
 If Output = 0 → Appliances OFF
 
 
