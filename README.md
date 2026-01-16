@@ -7,7 +7,8 @@
 ![Proteus](https://img.shields.io/badge/Simulation-Proteus-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-<img src="proteus.jpeg" width="80%"/>
+![proteus](https://github.com/user-attachments/assets/0e98eec2-91b3-4be1-bfef-ebfac353492d)
+
 
 </div>
 
