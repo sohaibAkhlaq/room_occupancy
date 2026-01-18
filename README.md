@@ -134,7 +134,7 @@ If Output = 0 → Appliances OFF
 ## 🎥 Project Demo Video
 
 ▶ **Full Working Demonstration:**  
-👉 video-link.mp4
+👉 [demo_video](video-link.mp4)
 
 ---
 
