@@ -163,7 +163,7 @@ If Output = 0 → Appliances OFF
 ## 📘 Project Report
 
 📄 **Complete Project Documentation:**  
-👉 [DLD Final Report](room_occupancy/Dld_report_final.pdf)
+👉 [DLD Final Report](Dld_report_final.pdf)
 
 ---
 
