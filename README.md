@@ -142,21 +142,18 @@ If Output = 0 → Appliances OFF
 
 📦 Room-Occupancy-DLD
 
-├── 📁 Proteus
 
-│ └── Room_Occupancy.pdsprj
+│ └── room_occupancy.pdsprj
 
-├── 📁 Report
 
 │ └── DLD_Report_Final.pdf
 
-├── 📁 Screenshots
 
 │ ├── zero.png
 
 │ └── nonzero.png
 
-├── proteus.jpeg
+| └── video-link
 
 └── README.md
 
@@ -166,7 +163,7 @@ If Output = 0 → Appliances OFF
 ## 📘 Project Report
 
 📄 **Complete Project Documentation:**  
-👉 [DLD Final Report](Report/DLD_Report_Final.pdf)
+👉 [DLD Final Report](Report/DLD_report_final.pdf)
 
 ---
 
