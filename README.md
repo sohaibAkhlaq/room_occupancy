@@ -141,14 +141,23 @@ If Output = 0 → Appliances OFF
 ## 📂 Repository Structure
 
 📦 Room-Occupancy-DLD
+
 ├── 📁 Proteus
+
 │ └── Room_Occupancy.pdsprj
+
 ├── 📁 Report
+
 │ └── DLD_Report_Final.pdf
+
 ├── 📁 Screenshots
+
 │ ├── zero.png
+
 │ └── nonzero.png
+
 ├── proteus.jpeg
+
 └── README.md
 
 
