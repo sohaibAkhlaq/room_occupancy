@@ -134,7 +134,7 @@ If Output = 0 → Appliances OFF
 ## 🎥 Project Demo Video
 
 ▶ **Full Working Demonstration:**  
-👉 https://github.com/sohaibAkhlaq/room_occupancy/video-link
+👉 https://github.com/sohaibAkhlaq/room_occupancy/video-link.mp4
 
 ---
 
@@ -163,7 +163,7 @@ If Output = 0 → Appliances OFF
 ## 📘 Project Report
 
 📄 **Complete Project Documentation:**  
-👉 [DLD Final Report](Report/DLD_report_final.pdf)
+👉 [DLD Final Report](room_occupancy/Dld_report_final.pdf)
 
 ---
 
