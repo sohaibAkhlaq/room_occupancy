@@ -122,17 +122,19 @@ If Output = 0 → Appliances OFF
 ## 📸 Simulation Results
 
 ### 🔴 Zero Occupancy (Power OFF)
-<img src="screenshots/zero.png" width="70%"/>
+![powerOff](https://github.com/user-attachments/assets/4d3679f1-ef07-402c-9b56-cca571a2dbc8)
+
 
 ### 🟢 Occupancy 1–9 (Power ON)
-<img src="screenshots/nonzero.png" width="70%"/>
+![poweOn](https://github.com/user-attachments/assets/fb252a79-980f-42a0-87cb-5116e2a827e1)
+
 
 ---
 
 ## 🎥 Project Demo Video
 
 ▶ **Full Working Demonstration:**  
-👉 https://github.com/your-username/your-repo-name/assets/video-link
+👉 https://github.com/sohaibAkhlaq/room_occupancy/assets/video-link
 
 ---
 
