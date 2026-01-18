@@ -134,7 +134,7 @@ If Output = 0 → Appliances OFF
 ## 🎥 Project Demo Video
 
 ▶ **Full Working Demonstration:**  
-👉 https://github.com/sohaibAkhlaq/room_occupancy/video-link.mp4
+👉 video-link.mp4
 
 ---
 
